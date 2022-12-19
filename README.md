@@ -1,6 +1,5 @@
-👋Hello, it's Cheese God. I'm a Roblox scripter and YouTuber. <br>
-🔎You can find me on Roblox by searching CheeseGodTheEpic and on YouTube by going to http://cheesegod.me <br>
-📃The repositories I post here are small projects I work on. Some repositories may not work in specific cases, especially if there has not been a posted release for it yet. <br>
+👋Hello, it's Cheese God. I'm a coder and YouTuber, working on Roblox games and other unrelated coding projects. <br>
+🔎You can find me on Roblox by searching CheeseGodTheEpic and on YouTube by going to [cheesegod.me](http://cheesegod.me) <br>
 
 <!---
 CheeseGodRoblox/CheeseGodRoblox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
